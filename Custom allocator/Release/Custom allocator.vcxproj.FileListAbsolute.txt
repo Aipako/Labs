@@ -1,0 +1,1 @@
+C:\Users\Maxim\source\repos\Custom allocator\Release\Custom allocator.exe

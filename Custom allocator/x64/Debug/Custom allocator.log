@@ -1,0 +1,49 @@
+﻿  Custom allocator.cpp
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(20,48): error C2061: синтаксическая ошибка: идентификатор "true_type"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(101): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CustomAllocator<T>"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(23,26): error C2061: синтаксическая ошибка: идентификатор "true_type"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(79,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(79,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(79,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(81,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(81,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(82,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(28,9): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(28,9): message : пропущено восстановление ошибки: "идентификатор :: идентификатор  . . . идентификатор"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(28,23): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(28,23): message : отсутствует один из элементов  ')' ';'?
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(28,23): message : пропущено восстановление ошибки: ", void >"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(30,3): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(30,3): message : пропущено восстановление ошибки: "идентификатор = идентификатор  . . . идентификатор"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(30,35): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(30,35): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(30,35): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "statement"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(30,35): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "selection_statement"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(30,35): message : пропущено восстановление ошибки: ")"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(48,3): error C2760: синтаксическая ошибка: непредвиденный элемент "}". Ожидается ";"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(54,33): error C2760: синтаксическая ошибка: непредвиденный элемент "идентификатор". Ожидается ")"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(54,37): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(54,37): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(54,37): message : пропущено восстановление ошибки: ")"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(61,3): error C2065: Chunk: необъявленный идентификатор
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(61,3): error C3861: Chunk: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(61,10): error C3861: currentChunk: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(61,25): error C3861: poolStartPtr: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(62,3): error C3861: poolStartPtr: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(62,18): error C3861: poolStartPtr: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(64,63): error C2065: currentChunk: необъявленный идентификатор
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(64,63): error C3861: currentChunk: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(64,79): error C3861: endl: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(66,10): error C3861: currentChunk: идентификатор не найден
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(74,20): error C2760: синтаксическая ошибка: непредвиденный элемент "идентификатор". Ожидается "спецификатор типа"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(74,25): error C3878: синтаксическая ошибка: непредвиденный маркер "*" после "expression"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(74,25): message : пропущено восстановление ошибки: "* > (  . . . идентификатор"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(74,31): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(74,31): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(74,31): message : пропущено восстановление ошибки: ") ->"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(75,35): error C2760: синтаксическая ошибка: непредвиденный элемент "идентификатор". Ожидается "спецификатор типа"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(75,40): error C3878: синтаксическая ошибка: непредвиденный маркер "*" после "expression"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(75,40): message : пропущено восстановление ошибки: "* > (  . . . идентификатор"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(75,46): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(75,46): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Maxim\source\repos\Custom allocator\CustomAllocator.h(75,46): message : пропущено восстановление ошибки: ")"
