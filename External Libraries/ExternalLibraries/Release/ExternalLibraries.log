@@ -1,0 +1,7 @@
+﻿SocketAPI.obj : error LNK2001: неразрешенный внешний символ __imp__htons@4.
+SocketAPI.obj : error LNK2001: неразрешенный внешний символ __imp__recv@16.
+SocketAPI.obj : error LNK2001: неразрешенный внешний символ __imp__connect@12.
+SocketAPI.obj : error LNK2001: неразрешенный внешний символ __imp__socket@12.
+SocketAPI.obj : error LNK2001: неразрешенный внешний символ __imp__WSAStartup@8.
+SocketAPI.obj : error LNK2001: неразрешенный внешний символ __imp__gethostbyname@4.
+C:\Users\Maxim\source\repos\ExternalLibraries\Release\ExternalLibraries.exe : fatal error LNK1120: неразрешенных внешних элементов: 6

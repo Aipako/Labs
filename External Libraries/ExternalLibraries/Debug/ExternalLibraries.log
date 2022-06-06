@@ -1,0 +1,3 @@
+﻿  ExternalLibraries.cpp
+C:\Users\Maxim\source\repos\ExternalLibraries\ExternalLibraries.cpp(65,7): warning C4101: hostbuffer: неиспользованная локальная переменная
+  ExternalLibraries.vcxproj -> C:\Users\Maxim\source\repos\ExternalLibraries\Debug\ExternalLibraries.exe

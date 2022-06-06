@@ -1,0 +1,6 @@
+﻿  ExternalLibraries.cpp
+C:\Users\Maxim\source\repos\ExternalLibraries\ExternalLibraries.cpp(7,1): warning C4005: CURL_STATICLIB: изменение макроопределения
+C:\Users\Maxim\source\repos\ExternalLibraries\ExternalLibraries.cpp : message : см. предыдущее определение "CURL_STATICLIB"
+ExternalLibraries.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_init в функции main.
+ExternalLibraries.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_cleanup в функции main.
+C:\Users\Maxim\source\repos\ExternalLibraries\x64\Debug\ExternalLibraries.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
