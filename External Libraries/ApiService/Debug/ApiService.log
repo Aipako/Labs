@@ -1,0 +1,12 @@
+﻿  SocketAPI.cpp
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(3): warning C4603: CURL_STATICLIB: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(3): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(6): message : использование предварительно скомпилированного заголовка
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(4): warning C4603: _CRT_NONSTDC_NO_DEPRECATE: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(4): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(6): message : использование предварительно скомпилированного заголовка
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(5): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(5): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\Maxim\source\repos\ApiService\SocketAPI.cpp(6): message : использование предварительно скомпилированного заголовка
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  ApiService.vcxproj -> C:\Users\Maxim\source\repos\ApiService\Debug\ApiService.exe

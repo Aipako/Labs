@@ -1,0 +1,13 @@
+﻿  WIN_Service_Core.cpp
+C:\Users\Maxim\source\repos\ApiService\WIN_Service_Core.cpp(1): warning C4603: CURL_STATICLIB: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\Maxim\source\repos\ApiService\WIN_Service_Core.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\Maxim\source\repos\ApiService\WIN_Service_Core.cpp(10): message : использование предварительно скомпилированного заголовка
+C:\Users\Maxim\source\repos\ApiService\WIN_Service_Core.cpp(78,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+WIN_Service_Core.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl SocketAPI::SocketAPI(void)" (??0SocketAPI@@QEAA@XZ) в функции "void __cdecl `dynamic initializer for 'socketMain''(void)" (??__EsocketMain@@YAXXZ).
+WIN_Service_Core.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_init в функции "protected: virtual void __cdecl WIN_Service_Core::Loop(void)" (?Loop@WIN_Service_Core@@MEAAXXZ).
+WIN_Service_Core.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_setopt в функции "protected: virtual void __cdecl WIN_Service_Core::Loop(void)" (?Loop@WIN_Service_Core@@MEAAXXZ).
+WIN_Service_Core.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_perform в функции "protected: virtual void __cdecl WIN_Service_Core::Loop(void)" (?Loop@WIN_Service_Core@@MEAAXXZ).
+WIN_Service_Core.obj : error LNK2019: ссылка на неразрешенный внешний символ curl_easy_cleanup в функции "protected: virtual void __cdecl WIN_Service_Core::OnStop(void)" (?OnStop@WIN_Service_Core@@MEAAXXZ).
+libcurl_a.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+libcurl_a_debug.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Maxim\source\repos\ApiService\x64\Debug\ApiService.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
