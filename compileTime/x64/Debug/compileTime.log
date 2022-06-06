@@ -1,0 +1,3 @@
+﻿  compileTime.cpp
+C:\Users\Maxim\source\repos\compileTime\compileTime.cpp(69,22): warning C4244: инициализация: преобразование "const unsigned __int64" в "const int", возможна потеря данных
+  compileTime.vcxproj -> C:\Users\Maxim\source\repos\compileTime\x64\Debug\compileTime.exe
